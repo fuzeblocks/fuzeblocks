@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @fuzeblocks
+- 😜 My name is Thomas 
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Java
-- 📫 How to reach me my discord : !!!!{incendie_hardi}!!!!™#6911
+- 📫 How to reach me ?
+- ❓My discord :
 
 <!---
 fuzeblocks/fuzeblocks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
