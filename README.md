@@ -1,7 +1,12 @@
-Salut ! 😁
- ```Java
+```Java
+Salut 😁
 - Je me présente :
-- Je mon prénom : "Thomas";
--
+- 😜 Mon prénom : "Thomas";
+- 👌 Mon pseudo : "fuzeblocks";
+- 🇨🇵 J'habite en France;
+- ☕ Mon language de programmation préfère et le java :
+Voici mes projets :
+
+
 
 ```
