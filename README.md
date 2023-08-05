@@ -11,10 +11,8 @@ Cconomy (CustomConomy) : https://github.com/fuzeblocks/Cconomy
 FallBlood plugin : https://github.com/fuzeblocks/FallBlood
 
 et d'autres..
-```
 
-Voici mes statistiques 
+Voici mes statistiques :
 
 
 ![](https://komarev.com/ghpvc/?username=fuzeblocks)
-```
