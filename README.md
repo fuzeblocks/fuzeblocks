@@ -16,5 +16,7 @@ et d'autres..
 
 Voici mes statistiques :
 
+[![ GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ![](https://komarev.com/ghpvc/?username=fuzeblocks)
