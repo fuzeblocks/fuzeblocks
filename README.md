@@ -7,9 +7,8 @@ Salut 😁
 - ☕ Mon language de programmation que je  préfère est le java :
 Voici mes projets :
 ```
- [Cconomy'API' :]  (https://github.com/fuzeblocks/Cconomy)
- https://github.com/fuzeblocks/Cconomy
-FallBlood plugin : https://github.com/fuzeblocks/FallBlood
+ [test](https://learndev.info)
+  https://github.com/fuzeblocks/FallBlood
 
 et d'autres..
 
