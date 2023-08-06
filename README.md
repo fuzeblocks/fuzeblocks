@@ -16,9 +16,8 @@ et d'autres..
 
 Voici mes statistiques :
 
-[![ GitHub stats](https://github-readme-stats.vercel.app/api?username=fuzeblocks)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fuzeblocks&layout=compact)
-[![fuzeblocks wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fuzeblocks)](https://github.com/anuraghazra/github-readme-stats)
+![fuzeblocks GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 
 ![](https://komarev.com/ghpvc/?username=fuzeblocks)
