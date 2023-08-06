@@ -18,6 +18,7 @@ Voici mes statistiques :
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fuzeblocks&layout=compact)
 ![fuzeblocks GitHub stats](https://github-readme-stats.vercel.app/api?username=fuzeblocks&show_icons=true&theme=dark)
+[![fuzeblocks wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fuzeblocks)](https://github.com/fuzeblocks/github-readme-stats)
 
 
 ![](https://komarev.com/ghpvc/?username=fuzeblocks)
