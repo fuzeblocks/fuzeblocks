@@ -8,7 +8,7 @@ Salut 😁
 Voici mes projets :
 ```
 # Minecraft 
-💵 [Cconomy 'API'(Beta) :](https://github.com/fuzeblocks/Cconomy)
+💵 [Cconomy 'API' (Beta) :](https://github.com/fuzeblocks/Cconomy)
 
 🏥 [FallBlood :](https://github.com/fuzeblocks/FallBlood) 
 
