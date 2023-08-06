@@ -4,7 +4,7 @@ Salut 😁
 - 😜 Mon prénom : "Thomas";
 - 👌 Mon pseudo : "fuzeblocks";
 - 🇨🇵 J'habite en France;
-- ☕ Mon language de programmation préfère est le java :
+- ☕ Mon language de programmation que je  préfère est le java :
 Voici mes projets :
 ```
 Cconomy (CustomConomy) : https://github.com/fuzeblocks/Cconomy
