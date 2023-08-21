@@ -19,5 +19,5 @@ Voici mes statistiques :
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fuzeblocks&layout=compact)
 ![fuzeblocks GitHub stats](https://github-readme-stats.vercel.app/api?username=fuzeblocks&show_icons=true&theme=dark)
 ![](https://komarev.com/ghpvc/?username=fuzeblocks)
-![Project](https://wakatime.com/share/@fuzeblocks/5e74bcae-91ae-4a57-8924-413becb56c7d.svg) https://wakatime.com/share/@fuzeblocks/7c177d34-3c18-421e-bf7e-d53532ad2d40.png
-    :target: https://wakatime.com
+![Language](https://wakatime.com/share/@fuzeblocks/5e74bcae-91ae-4a57-8924-413becb56c7d.svg) 
+![Editor](https://wakatime.com/share/@fuzeblocks/7c177d34-3c18-421e-bf7e-d53532ad2d40.png)
