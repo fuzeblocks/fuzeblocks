@@ -29,7 +29,7 @@ Salut, je suis Thomas (alias fuzeblocks) ! 😄
 
 ## Contact
 - 🔥 Discord : incendie_hardi
-- 🙌 Bien-sur, n'hésitez pas à me contacter si vous avez un projet en tête ou si vous souhaitez contribuer en faisant un don. Vous pouvez également me soutenir financièrement via ![Paypal](https://www.paypal.com/paypalme/contactfuzeblocks?country.x=FR&locale.x=fr_FR). Votre soutien serait grandement apprécié ! 
+- 🙌 Bien-sur, n'hésitez pas à me contacter si vous avez un projet en tête ou si vous souhaitez contribuer en faisant un don. Vous pouvez également me soutenir financièrement via [PayPal](https://www.paypal.com/paypalme/contactfuzeblocks?country.x=FR&locale.x=fr_FR). Votre soutien serait grandement apprécié ! 
 
 Globetrotter du code, passionné de Minecraft et créateur de projets numériques. Rejoignez-moi dans l'univers de la programmation !
 
@@ -71,7 +71,7 @@ Hello, I'm Thomas (also known as fuzeblocks) ! 😄
 
 ### **Contact**
 - 🔥 Discord : incendie_hardi
-- 🙌 Certainly, feel free to reach out to me if you have a project in mind or if you'd like to contribute by making a donation. You can also support me financially through ![PayPal](https://www.paypal.com/paypalme/contactfuzeblocks?country.x=FR&locale.x=fr_FR). Your support would be greatly appreciated! 🙌
+- 🙌 Certainly, feel free to reach out to me if you have a project in mind or if you'd like to contribute by making a donation. You can also support me financially through [PayPal](https://www.paypal.com/paypalme/contactfuzeblocks?country.x=FR&locale.x=fr_FR). Your support would be greatly appreciated! 🙌
 
 Code explorer, Minecraft enthusiast, and digital projects creator. Join me in the world of programming!
 
