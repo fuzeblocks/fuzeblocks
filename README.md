@@ -27,8 +27,11 @@ Salut, je suis Thomas (alias fuzeblocks) ! 😄
 - 📊 Temps de Programmation : ![Temps de Programmation](https://wakatime.com/share/@fuzeblocks/5e74bcae-91ae-4a57-8924-413becb56c7d.svg) 
 - 🖋️ Éditeur Utilisé : ![Éditeur Utilisé](https://wakatime.com/share/@fuzeblocks/7c177d34-3c18-421e-bf7e-d53532ad2d40.png)
 
+
+
 ### **Contact**
-- 🔥 Discord : incendie_hardi#XXXX
+- 🔥 Discord : incendie_hardi
+- 🙌 Bien-sur, n'hésitez pas à me contacter si vous avez un projet en tête ou si vous souhaitez contribuer en faisant un don. Vous pouvez également me soutenir financièrement via ![PayPal](https://wakatime.com/share/@fuzeblocks/7c177d34-3c18-421e-bf7e-d53532ad2d40.png). Votre soutien serait grandement apprécié ! 
 
 Globetrotter du code, passionné de Minecraft et créateur de projets numériques. Rejoignez-moi dans l'univers de la programmation !
 
@@ -65,8 +68,11 @@ Hello, I'm Thomas (also known as fuzeblocks) ! 😄
 - 📊 Coding Activity: ![Coding Activity](https://wakatime.com/share/@fuzeblocks/5e74bcae-91ae-4a57-8924-413becb56c7d.svg) 
 - 🖋️ Editor Used: ![Editor Used](https://wakatime.com/share/@fuzeblocks/7c177d34-3c18-421e-bf7e-d53532ad2d40.png)
 
+
+
 ### **Contact**
-- 🔥 Discord : incendie_hardi#XXXX
+- 🔥 Discord : incendie_hardi
+- 🙌 Certainly, feel free to reach out to me if you have a project in mind or if you'd like to contribute by making a donation. You can also support me financially through ![PayPal](https://wakatime.com/share/@fuzeblocks/7c177d34-3c18-421e-bf7e-d53532ad2d40.png). Your support would be greatly appreciated! 🙌
 
 Code explorer, Minecraft enthusiast, and digital projects creator. Join me in the world of programming!
 
