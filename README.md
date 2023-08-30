@@ -1,23 +1,73 @@
-```
-Salut 😁
-- Je me présente :
-- 😜 Mon prénom : "Thomas";
-- 👌 Mon pseudo : "fuzeblocks";
-- 🇨🇵 J'habite en France;
-- ☕ Mon language de programmation que je  préfère est le java :
-Voici mes projets :
-```
-# Minecraft 
-💵 [Cconomy 'API' (Beta) :](https://github.com/fuzeblocks/Cconomy)
+## **Profil de Thomas (fuzeblocks) 👋**
 
-🏥 [FallBlood :](https://github.com/fuzeblocks/FallBlood) 
+Salut, je suis Thomas (alias fuzeblocks) ! 😄
 
-et d'autres..
+### **Qui suis-je ?**
+- 😜 Prénom : Thomas
+- 👌 Pseudo : fuzeblocks
+- 🌍 Localisation : France
+- 💼 Travail : Passionné de programmation
 
-Voici mes statistiques :
+### **Langages et Technologies 🔧**
+- ☕ Java : Mon langage préféré
+- 📜 HTML, CSS : Pour mes projets web
+- 🕹️ Minecraft Plugin Development : Mes créations pour l'univers Minecraft
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fuzeblocks&layout=compact)
-![fuzeblocks GitHub stats](https://github-readme-stats.vercel.app/api?username=fuzeblocks&show_icons=true&theme=dark)
-![](https://komarev.com/ghpvc/?username=fuzeblocks)
-![Language](https://wakatime.com/share/@fuzeblocks/5e74bcae-91ae-4a57-8924-413becb56c7d.svg) 
-![Editor](https://wakatime.com/share/@fuzeblocks/7c177d34-3c18-421e-bf7e-d53532ad2d40.png)
+### **Projets**
+#### **Minecraft**
+- 💵 [Cconomy 'API' (Beta)](https://github.com/fuzeblocks/Cconomy)
+- 🏥 [FallBlood](https://github.com/fuzeblocks/FallBlood)
+- ... et bien d'autres
+
+### **Statistiques**
+![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=fuzeblocks&layout=compact)
+![Statistiques GitHub de fuzeblocks](https://github-readme-stats.vercel.app/api?username=fuzeblocks&show_icons=true&theme=dark)
+
+### **Activité**
+- 📊 Temps de Programmation : ![Temps de Programmation](https://wakatime.com/share/@fuzeblocks/5e74bcae-91ae-4a57-8924-413becb56c7d.svg) 
+- 🖋️ Éditeur Utilisé : ![Éditeur Utilisé](https://wakatime.com/share/@fuzeblocks/7c177d34-3c18-421e-bf7e-d53532ad2d40.png)
+
+### **Contact**
+- 🔥 Discord : incendie_hardi#XXXX
+
+Globetrotter du code, passionné de Minecraft et créateur de projets numériques. Rejoignez-moi dans l'univers de la programmation !
+
+[English Version](#english-profile)
+
+---
+
+## **Thomas's Profile (fuzeblocks) 👋**
+
+Hello, I'm Thomas (also known as fuzeblocks) ! 😄
+
+### **Who Am I?**
+- 😜 First Name: Thomas
+- 👌 Username: fuzeblocks
+- 🌍 Location: France
+- 💼 Occupation: Passionate Programmer
+
+### **Languages and Technologies 🔧**
+- ☕ Java : My preferred language
+- 📜 HTML, CSS : For my web projects
+- 🕹️ Minecraft Plugin Development : My creations for the Minecraft universe
+
+### **Projects**
+#### **Minecraft**
+- 💵 [Cconomy 'API' (Beta)](https://github.com/fuzeblocks/Cconomy)
+- 🏥 [FallBlood](https://github.com/fuzeblocks/FallBlood)
+- ... and many more
+
+### **Statistics**
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fuzeblocks&layout=compact)
+![fuzeblocks's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fuzeblocks&show_icons=true&theme=dark)
+
+### **Activity**
+- 📊 Coding Activity: ![Coding Activity](https://wakatime.com/share/@fuzeblocks/5e74bcae-91ae-4a57-8924-413becb56c7d.svg) 
+- 🖋️ Editor Used: ![Editor Used](https://wakatime.com/share/@fuzeblocks/7c177d34-3c18-421e-bf7e-d53532ad2d40.png)
+
+### **Contact**
+- 🔥 Discord : incendie_hardi#XXXX
+
+Code explorer, Minecraft enthusiast, and digital projects creator. Join me in the world of programming!
+
+[Français Version](#profil-de-thomas-fuzeblocks-)
