@@ -15,7 +15,7 @@ Salut, je suis Thomas (alias fuzeblocks) ! 😄
 
 ## Projets
 ### Minecraft
-- 💵 [Cconomy-dabase](https://github.com/fuzeblocks/Cconomy-dabase)
+- 💵 [Cconomy-dabase](https://github.com/fuzeblocks/Cconomy-database)
 - 🏥 [FallBlood](https://github.com/fuzeblocks/FallBlood)
 - ... et bien d'autres
 
