@@ -10,14 +10,11 @@ Salut, je suis Thomas (alias fuzeblocks) ! 😄
 
 ## Langages et Technologies 🔧
 - ☕ Java : Mon langage préféré
-- 📜 HTML, CSS : Pour mes projets web
 - 🕹️ Minecraft Plugin Development : Mes créations pour l'univers Minecraft
 
 ## Projets
 ### Minecraft
 - 💵[Cconomy-database](https://github.com/fuzeblocks/Cconomy-database)
-- 🏥 [FallBlood](https://github.com/fuzeblocks/BloodPlugin)
-- ... et bien d'autres
 
 ## Statistiques
 ![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=fuzeblocks&layout=compact)
@@ -50,14 +47,11 @@ Hello, I'm Thomas (also known as fuzeblocks) ! 😄
 
 ### **Languages and Technologies 🔧**
 - ☕ Java : My preferred language
-- 📜 HTML, CSS : For my web projects
 - 🕹️ Minecraft Plugin Development : My creations for the Minecraft universe
 
 ### **Projects**
 #### **Minecraft**
 - 💵 [Cconomy-dabase](https://github.com/fuzeblocks/Cconomy-database)
-- 🏥 [FallBlood](https://github.com/fuzeblocks/BloodPlugin)
-- ... and many more
 
 ### **Statistics**
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fuzeblocks&layout=compact)
