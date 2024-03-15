@@ -14,7 +14,7 @@ Salut, je suis Thomas (alias fuzeblocks) ! 😄
 
 ## Projets
 ### Minecraft
-- 💵[Cconomy-database](https://github.com/fuzeblocks/Cconomy-database)
+- 🏠[HomePlugin](https://github.com/fuzeblocks/HomePlugin)
 
 ## Statistiques
 ![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=fuzeblocks&layout=compact)
@@ -51,7 +51,7 @@ Hello, I'm Thomas (also known as fuzeblocks) ! 😄
 
 ### **Projects**
 #### **Minecraft**
-- 💵 [Cconomy-dabase](https://github.com/fuzeblocks/Cconomy-database)
+- 🏠[HomePlugin](https://github.com/fuzeblocks/HomePlugin)
 
 ### **Statistics**
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fuzeblocks&layout=compact)
