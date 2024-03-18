@@ -18,7 +18,7 @@ Salut à tous ! Je suis Thomas, aussi connu sous le pseudo fuzeblocks. 😄
 
 ## Statistiques
 
-![](https://wakatime.com/share/@fuzeblocks/baa801c8-17ad-4702-9b5a-b201d4e072a5.svg)
+![Activité](https://wakatime.com/share/@fuzeblocks/baa801c8-17ad-4702-9b5a-b201d4e072a5.svg)
 
 ## Activité de Programmation
 - 📊 Temps de Programmation : ![Temps de Programmation](https://wakatime.com/share/@fuzeblocks/5e74bcae-91ae-4a57-8924-413becb56c7d.svg)
@@ -53,8 +53,7 @@ Hey there! I'm Thomas, also known as fuzeblocks. 😄
 - 🏠 [HomePlugin](https://github.com/fuzeblocks/HomePlugin): A Minecraft plugin to easily manage players' homes.
 
 ## Statistics
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fuzeblocks&layout=compact)
-![fuzeblocks's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fuzeblocks&show_icons=true&theme=dark)
+![Activity](https://wakatime.com/share/@fuzeblocks/baa801c8-17ad-4702-9b5a-b201d4e072a5.svg)
 
 ## Programming Activity
 - 📊 Coding Activity: ![Coding Activity](https://wakatime.com/share/@fuzeblocks/5e74bcae-91ae-4a57-8924-413becb56c7d.svg)
