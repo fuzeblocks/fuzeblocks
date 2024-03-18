@@ -17,7 +17,7 @@ Salut à tous ! Je suis Thomas, aussi connu sous le pseudo fuzeblocks. 😄
 - 🏠 [HomePlugin](https://github.com/fuzeblocks/HomePlugin) : Un plugin pour Minecraft permettant de gérer facilement les maisons des joueurs.
 
 ## Statistiques
-![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=fuzeblocks&layout=compact)
+<figure><embed src="https://wakatime.com/share/@fuzeblocks/baa801c8-17ad-4702-9b5a-b201d4e072a5.svg"></embed></figure>
 ![Statistiques GitHub de fuzeblocks](https://github-readme-stats.vercel.app/api?username=fuzeblocks&show_icons=true&theme=dark)
 
 ## Activité de Programmation
