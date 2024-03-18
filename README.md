@@ -1,72 +1,71 @@
 # Profil de Thomas (fuzeblocks) 👋
 
-Salut, je suis Thomas (alias fuzeblocks) ! 😄
+Salut à tous ! Je suis Thomas, aussi connu sous le pseudo fuzeblocks. 😄
 
 ## Qui suis-je ?
 - 😜 Prénom : Thomas
 - 👌 Pseudo : fuzeblocks
 - 🌍 Localisation : France
-- 💼 Travail : Passionné de programmation
+- 💼 Profession : Développeur passionné
 
-## Langages et Technologies 🔧
-- ☕ Java : Mon langage préféré
-- 🕹️ Minecraft Plugin Development : Mes créations pour l'univers Minecraft
+## Compétences et Technologies 🔧
+- ☕ Java : Mon langage de prédilection
+- 🕹️ Développement de plugins Minecraft : Mes créations pour l'univers Minecraft
 
-## Projets
+## Mes Projets
 ### Minecraft
-- 🏠[HomePlugin](https://github.com/fuzeblocks/HomePlugin)
+- 🏠 [HomePlugin](https://github.com/fuzeblocks/HomePlugin) : Un plugin pour Minecraft permettant de gérer facilement les maisons des joueurs.
 
 ## Statistiques
-![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=fuzeblocks&layout=compact)
+![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=fuzeblocks&layout=compact)
 ![Statistiques GitHub de fuzeblocks](https://github-readme-stats.vercel.app/api?username=fuzeblocks&show_icons=true&theme=dark)
 
-## Activité
-- 📊 Temps de Programmation : ![Temps de Programmation](https://wakatime.com/share/@fuzeblocks/5e74bcae-91ae-4a57-8924-413becb56c7d.svg) 
+## Activité de Programmation
+- 📊 Temps de Programmation : ![Temps de Programmation](https://wakatime.com/share/@fuzeblocks/5e74bcae-91ae-4a57-8924-413becb56c7d.svg)
 - 🖋️ Éditeur Utilisé : ![Éditeur Utilisé](https://wakatime.com/share/@fuzeblocks/7c177d34-3c18-421e-bf7e-d53532ad2d40.png)
 
 ## Contact
 - 🔥 Discord : incendie_hardi
-- 🙌 Bien-sur, n'hésitez pas à me contacter si vous avez un projet en tête ou si vous souhaitez contribuer en faisant un don. Vous pouvez également me soutenir financièrement via [PayPal](https://www.paypal.com/paypalme/contactfuzeblocks?country.x=FR&locale.x=fr_FR). Votre soutien serait grandement apprécié ! 
+- 🙌 Envie de discuter de projets ou de contribuer financièrement ? N'hésitez pas à me contacter ou à faire un don via [PayPal](https://www.paypal.com/paypalme/contactfuzeblocks?country.x=FR&locale.x=fr_FR). Votre soutien est précieux !
 
-Globetrotter du code, passionné de Minecraft et créateur de projets numériques. Rejoignez-moi dans l'univers de la programmation !
+Explorateur de code, passionné de Minecraft et créateur de projets numériques. Rejoignez-moi dans l'univers de la programmation !
 
-
-[English Version](#english-profile)
+[English Version](#thomass-profile-fuzeblocks-)
 
 ---
 
-## **Thomas's Profile (fuzeblocks) 👋**
+# Thomas's Profile (fuzeblocks) 👋
 
-Hello, I'm Thomas (also known as fuzeblocks) ! 😄
+Hey there! I'm Thomas, also known as fuzeblocks. 😄
 
-### **Who Am I?**
+## About Me
 - 😜 First Name: Thomas
 - 👌 Username: fuzeblocks
 - 🌍 Location: France
-- 💼 Occupation: Passionate Programmer
+- 💼 Occupation: Passionate Developer
 
-### **Languages and Technologies 🔧**
-- ☕ Java : My preferred language
-- 🕹️ Minecraft Plugin Development : My creations for the Minecraft universe
+## Skills and Technologies 🔧
+- ☕ Java: My go-to language
+- 🕹️ Minecraft Plugin Development: My creations for the Minecraft universe
 
-### **Projects**
-#### **Minecraft**
-- 🏠[HomePlugin](https://github.com/fuzeblocks/HomePlugin)
+## My Projects
+### Minecraft
+- 🏠 [HomePlugin](https://github.com/fuzeblocks/HomePlugin): A Minecraft plugin to easily manage players' homes.
 
-### **Statistics**
+## Statistics
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fuzeblocks&layout=compact)
 ![fuzeblocks's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fuzeblocks&show_icons=true&theme=dark)
 
-### **Activity**
-- 📊 Coding Activity: ![Coding Activity](https://wakatime.com/share/@fuzeblocks/5e74bcae-91ae-4a57-8924-413becb56c7d.svg) 
+## Programming Activity
+- 📊 Coding Activity: ![Coding Activity](https://wakatime.com/share/@fuzeblocks/5e74bcae-91ae-4a57-8924-413becb56c7d.svg)
 - 🖋️ Editor Used: ![Editor Used](https://wakatime.com/share/@fuzeblocks/7c177d34-3c18-421e-bf7e-d53532ad2d40.png)
 
-
-
-### **Contact**
-- 🔥 Discord : incendie_hardi
-- 🙌 Certainly, feel free to reach out to me if you have a project in mind or if you'd like to contribute by making a donation. You can also support me financially through [PayPal](https://www.paypal.com/paypalme/contactfuzeblocks?country.x=FR&locale.x=fr_FR). Your support would be greatly appreciated! 🙌
+## Contact
+- 🔥 Discord: incendie_hardi
+- 🙌 Interested in discussing projects or contributing financially? Feel free to contact me or make a donation via [PayPal](https://www.paypal.com/paypalme/contactfuzeblocks?country.x=FR&locale.x=fr_FR). Your support is greatly appreciated!
 
 Code explorer, Minecraft enthusiast, and digital projects creator. Join me in the world of programming!
 
 [Français Version](#profil-de-thomas-fuzeblocks-)
+
+---
