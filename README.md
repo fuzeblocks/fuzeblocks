@@ -26,6 +26,7 @@ Salut à tous ! Je suis Thomas, aussi connu sous le pseudo fuzeblocks. 😄
 
 ## Contact
 - 🔥 Discord : incendie_hardi
+- Fiverr : https://fr.fiverr.com/s/qDbA9jX
 - 🙌 Envie de discuter de projets ou de contribuer financièrement ? N'hésitez pas à me contacter ou à faire un don via [PayPal](https://www.paypal.com/paypalme/contactfuzeblocks?country.x=FR&locale.x=fr_FR). Votre soutien est précieux !
 
 Explorateur de code, passionné de Minecraft et créateur de projets numériques. Rejoignez-moi dans l'univers de la programmation !
@@ -61,6 +62,7 @@ Hey there! I'm Thomas, also known as fuzeblocks. 😄
 
 ## Contact
 - 🔥 Discord: incendie_hardi
+- Fiverr : https://fr.fiverr.com/s/qDbA9jX
 - 🙌 Interested in discussing projects or contributing financially? Feel free to contact me or make a donation via [PayPal](https://www.paypal.com/paypalme/contactfuzeblocks?country.x=FR&locale.x=fr_FR). Your support is greatly appreciated!
 
 Code explorer, Minecraft enthusiast, and digital projects creator. Join me in the world of programming!
