@@ -1,4 +1,4 @@
-# Profil de Thomas (fuzeblocks) 👋
+# Profil de Thomas (fuzeblocks) 👋  [![](https://visitcount.itsvg.in/api?id=fuzeblocks&label=Profile%20Views&color=3&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 Salut à tous ! Je suis Thomas, aussi connu sous le pseudo fuzeblocks. 😄
 
