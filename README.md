@@ -10,11 +10,14 @@ Salut à tous ! Je suis Thomas, aussi connu sous le pseudo fuzeblocks. 😄
 
 ## Compétences et Technologies 🔧
 - ☕ Java : Mon langage de prédilection
+- JavaScript : Pour des sites web
 - 🕹️ Développement de plugins Minecraft : Mes créations pour l'univers Minecraft
 
 ## Mes Projets
 ### Minecraft
 - 🏠 [HomePlugin](https://github.com/fuzeblocks/HomePlugin) : Un plugin pour Minecraft permettant de gérer facilement les maisons des joueurs.
+### Gestion de notes avec Grafana
+- [NoteWeb](https://notes.fuzeblocks.icu) (Repo privé)
 
 ## Statistiques
 
@@ -47,11 +50,14 @@ Hey there! I'm Thomas, also known as fuzeblocks. 😄
 
 ## Skills and Technologies 🔧
 - ☕ Java: My go-to language
+- JavaScript : For my websites
 - 🕹️ Minecraft Plugin Development: My creations for the Minecraft universe
 
 ## My Projects
 ### Minecraft
 - 🏠 [HomePlugin](https://github.com/fuzeblocks/HomePlugin): A Minecraft plugin to easily manage players' homes.
+### Manage note with Grafana
+- [NoteWeb](https://notes.fuzeblocks.icu) (Private repo)
 
 ## Statistics
 ![Activity](https://wakatime.com/share/@fuzeblocks/baa801c8-17ad-4702-9b5a-b201d4e072a5.svg)
