@@ -1,78 +1,121 @@
-# Profil de Thomas (fuzeblocks) 👋  [![](https://visitcount.itsvg.in/api?id=fuzeblocks&label=Profile%20Views&color=3&icon=5&pretty=true)](https://visitcount.itsvg.in)
+<h1 align="center">Profil de Thomas (fuzeblocks) 👋</h1>
 
-Salut à tous ! Je suis Thomas, aussi connu sous le pseudo fuzeblocks. 😄
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=fuzeblocks&label=Profile%20Views&color=3&icon=5&pretty=true" alt="Compteur de visites" />
+  </a>
+</p>
 
-## Qui suis-je ?
-- 😜 Prénom : Thomas
-- 👌 Pseudo : fuzeblocks
-- 🌍 Localisation : France
-- 💼 Profession : Développeur passionné
-
-## Compétences et Technologies 🔧
-- ☕ Java : Mon langage de prédilection
-- JavaScript : Pour des sites web
-- 🕹️ Développement de plugins Minecraft : Mes créations pour l'univers Minecraft
-
-## Mes Projets
-### Minecraft
-- 🏠 [HomePlugin](https://github.com/fuzeblocks/HomePlugin) : Un plugin pour Minecraft permettant de gérer facilement les maisons des joueurs.
-### Gestion de notes avec Grafana
-- [NoteWeb](https://notes.fuzeblocks.icu) (Repo privé)
-
-## Statistiques
-
-![Activité](https://wakatime.com/share/@fuzeblocks/baa801c8-17ad-4702-9b5a-b201d4e072a5.svg)
-
-## Activité de Programmation
-- 📊 Temps de Programmation : ![Temps de Programmation](https://wakatime.com/share/@fuzeblocks/5e74bcae-91ae-4a57-8924-413becb56c7d.svg)
-- 🖋️ Éditeur Utilisé : ![Éditeur Utilisé](https://wakatime.com/share/@fuzeblocks/7c177d34-3c18-421e-bf7e-d53532ad2d40.png)
-
-## Contact
-- 🔥 Discord : incendie_hardi
-- Fiverr : https://fr.fiverr.com/s/qDbA9jX
-- 🙌 Envie de discuter de projets ou de contribuer financièrement ? N'hésitez pas à me contacter ou à faire un don via [PayPal](https://www.paypal.com/paypalme/contactfuzeblocks?country.x=FR&locale.x=fr_FR). Votre soutien est précieux !
-
-Explorateur de code, passionné de Minecraft et créateur de projets numériques. Rejoignez-moi dans l'univers de la programmation !
-
-[English Version](#thomass-profile-fuzeblocks-)
+<p align="center">
+  <a href="#profil-francais">🇫🇷 Français</a> | <a href="#english-profile">🇬🇧 English</a>
+</p>
 
 ---
 
-# Thomas's Profile (fuzeblocks) 👋
+<a id="profil-francais"></a>
+## 🇫🇷 Profil de Thomas (fuzeblocks)
 
-Hey there! I'm Thomas, also known as fuzeblocks. 😄
+### 👋 Salut à tous ! Je suis **Thomas**, aussi connu sous le pseudo **fuzeblocks**.
 
-## About Me
-- 😜 First Name: Thomas
-- 👌 Username: fuzeblocks
-- 🌍 Location: France
-- 💼 Occupation: Passionate Developer
+- 😜 **Prénom** : Thomas  
+- 👌 **Pseudo** : fuzeblocks  
+- 🌍 **Localisation** : France  
+- 💼 **Profession** : Développeur passionné  
 
-## Skills and Technologies 🔧
-- ☕ Java: My go-to language
-- JavaScript : For my websites
-- 🕹️ Minecraft Plugin Development: My creations for the Minecraft universe
+---
 
-## My Projects
-### Minecraft
+## 🔧 Compétences et Technologies  
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,html,css,git,github,minecraft" alt="Tech Stack" />
+</div>
+
+---
+
+## 🚀 Mes Projets  
+
+### 🎮 **Plugins Minecraft**  
+- 🏠 [HomePlugin](https://github.com/fuzeblocks/HomePlugin) : Un plugin Minecraft pour gérer facilement les maisons des joueurs.
+
+### 📊 **Gestion de notes avec Grafana**  
+- [NoteWeb](https://notes.fuzeblocks.icu) _(Repo privé)_  
+
+---
+
+## 📈 Mes Statistiques  
+
+<p align="center">
+  <img src="https://wakatime.com/share/@fuzeblocks/baa801c8-17ad-4702-9b5a-b201d4e072a5.svg" alt="Activité" />
+</p>
+
+### ⏱️ Activité de Programmation  
+- 📊 **Temps de Programmation** :  
+  <img src="https://wakatime.com/share/@fuzeblocks/5e74bcae-91ae-4a57-8924-413becb56c7d.svg" alt="Temps de Programmation" />  
+
+- 🖋️ **Éditeur Utilisé** :  
+  <img src="https://wakatime.com/share/@fuzeblocks/7c177d34-3c18-421e-bf7e-d53532ad2d40.png" alt="Éditeur Utilisé" />  
+
+---
+
+## 📬 Contactez-moi !  
+- 🔥 **Discord** : incendie_hardi  
+- 💼 **Fiverr** : [Mon profil Fiverr](https://fr.fiverr.com/s/qDbA9jX)  
+- 🙌 **Donations** : Soutenez-moi via [PayPal](https://www.paypal.com/paypalme/contactfuzeblocks?country.x=FR&locale.x=fr_FR). Votre soutien est précieux !  
+
+---
+
+<h2 align="center">Merci d'avoir visité mon profil ! 💻</h2>
+
+---
+
+<a id="english-profile"></a>
+## 🇬🇧 Thomas's Profile (fuzeblocks)
+
+### 👋 Hey there! I'm **Thomas**, also known as **fuzeblocks**.
+
+- 😜 **First Name**: Thomas  
+- 👌 **Username**: fuzeblocks  
+- 🌍 **Location**: France  
+- 💼 **Occupation**: Passionate Developer  
+
+---
+
+## 🔧 Skills and Technologies  
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,html,css,git,github,minecraft" alt="Tech Stack" />
+</div>
+
+---
+
+## 🚀 My Projects  
+
+### 🎮 **Minecraft Plugins**  
 - 🏠 [HomePlugin](https://github.com/fuzeblocks/HomePlugin): A Minecraft plugin to easily manage players' homes.
-### Manage note with Grafana
-- [NoteWeb](https://notes.fuzeblocks.icu) (Private repo)
 
-## Statistics
-![Activity](https://wakatime.com/share/@fuzeblocks/baa801c8-17ad-4702-9b5a-b201d4e072a5.svg)
-
-## Programming Activity
-- 📊 Coding Activity: ![Coding Activity](https://wakatime.com/share/@fuzeblocks/5e74bcae-91ae-4a57-8924-413becb56c7d.svg)
-- 🖋️ Editor Used: ![Editor Used](https://wakatime.com/share/@fuzeblocks/7c177d34-3c18-421e-bf7e-d53532ad2d40.png)
-
-## Contact
-- 🔥 Discord: incendie_hardi
-- Fiverr : https://fr.fiverr.com/s/qDbA9jX
-- 🙌 Interested in discussing projects or contributing financially? Feel free to contact me or make a donation via [PayPal](https://www.paypal.com/paypalme/contactfuzeblocks?country.x=FR&locale.x=fr_FR). Your support is greatly appreciated!
-
-Code explorer, Minecraft enthusiast, and digital projects creator. Join me in the world of programming!
-
-[Français Version](#profil-de-thomas-fuzeblocks-)
+### 📊 **Note Management with Grafana**  
+- [NoteWeb](https://notes.fuzeblocks.icu) _(Private Repo)_  
 
 ---
+
+## 📈 Statistics  
+
+<p align="center">
+  <img src="https://wakatime.com/share/@fuzeblocks/baa801c8-17ad-4702-9b5a-b201d4e072a5.svg" alt="Activity" />
+</p>
+
+### ⏱️ Programming Activity  
+- 📊 **Coding Time**:  
+  <img src="https://wakatime.com/share/@fuzeblocks/5e74bcae-91ae-4a57-8924-413becb56c7d.svg" alt="Coding Time" />  
+
+- 🖋️ **Editor Used**:  
+  <img src="https://wakatime.com/share/@fuzeblocks/7c177d34-3c18-421e-bf7e-d53532ad2d40.png" alt="Editor Used" />  
+
+---
+
+## 📬 Contact Me!  
+- 🔥 **Discord**: incendie_hardi  
+- 💼 **Fiverr**: [My Fiverr Profile](https://fr.fiverr.com/s/qDbA9jX)  
+- 🙌 **Donations**: Support me via [PayPal](https://www.paypal.com/paypalme/contactfuzeblocks?country.x=FR&locale.x=fr_FR). Your support is greatly appreciated!  
+
+---
+
+<h2 align="center">Thanks for visiting my profile! 💻</h2>
