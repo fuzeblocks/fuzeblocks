@@ -13,7 +13,7 @@
 - 🎶 Code with creativity, music, and good food.
 - 🛠️ Power user of **IntelliJ IDEA**.
 - ✨ Always learning, always building—open to collaboration!
-- 🎂 16 years old
+- 🎂 17 years old
 
 ---
 
