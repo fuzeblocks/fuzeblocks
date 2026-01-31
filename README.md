@@ -70,18 +70,6 @@
 
 ---
 
-## 💰 Support My Work
-
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/devEmber)
-
----
-
-## 💼 Hire Me
-
-[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://fr.fiverr.com/s/KeBl7m2)
-
----
-
 ### ✍️ Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
