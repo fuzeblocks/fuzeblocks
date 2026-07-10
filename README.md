@@ -52,9 +52,7 @@
 
 ## 📈 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=fuzeblocks&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=fuzeblocks&theme=dark&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=fuzeblocks&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+[![fuzeblocks's GitHub stats](https://github-stats-extended.vercel.app/api/?username=fuzeblocks&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=fuzeblocks's+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)](https://github-stats-extended.vercel.app/api/?username=fuzeblocks&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=fuzeblocks's+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)
 
 ---
 
