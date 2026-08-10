@@ -23,7 +23,7 @@
 - 🏠 [**HomePlugin**](https://github.com/fuzeblocks/HomePlugin) — Manage players' homes with ease and style.
 
 ### 📊 Apps & Utilities
-- 📝 [**TaskApp**](https://github.com/fuzeblocks/TaskApp) — Organize your tasks, boost your productivity.
+- 📝 [**French-Traducted-Bryton-APP**](https://github.com/fuzeblocks/French-Traducted-Bryton-APP) — A script that allow you to add and customize translation in the Bryton Active APP which control bike computers.
 - 📈 **NoteWeb** *(Private)* — Note management with monitoring (Grafana integrated).
 
 ---
